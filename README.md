@@ -1,5 +1,28 @@
-## Hi there 👋
+## Hello!
 
+Welcome to my Github profile!
+I'm a student in Sebelas Maret University, majoring Informatic Engineering and Computer Educational. My mission is learn about software development, to someday teach the student with my knowledge, simply i want to be a teacher!
+
+---
+
+## 🚀 What I Do
+- Designing **learning modules** about informatic course
+- Learning **teaching-technique** to educate student
+- Develop **educational-software** as a instructional media
+
+---
+
+## 💼 Current Project
+- Website with gamification model for web development course
+- 2D Top-Down Games about visualization of depression
+- Computer System learning modules for **SMK Informatika**
+
+---
+
+## ✉️ How to Reach Me
+- Email: semartpeople@gmail.com
+
+⭐ Feel free to explore my repositories and connect with me!
 <!--
 **Apypz/Apypz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
