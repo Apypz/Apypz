@@ -1,7 +1,7 @@
 ## Hello World!
 
 Welcome to my Github profile!
-I'm a student in Sebelas Maret University, majoring Informatic Engineering and Computer Educational. My mission is learn about software development, to someday teach the student with my knowledge, simply i want to be a teacher!
+I'm a student in Sebelas Maret University, majoring Informatic Engineering and Computer Educational.
 
 ---
 
